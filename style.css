@@ -28,17 +28,17 @@ body {
 
 @font-face {
   font-family: "DM Sans Regular";
-  src: url("/assets/fonts/static/DMSans-Regular.ttf");
+  src: url("./assets/fonts/static/DMSans-Regular.ttf");
 }
 
 @font-face {
   font-family: "DM Sans Italic";
-  src: url("/assets/fonts/static/DMSans-MediumItalic.ttf");
+  src: url("./assets/fonts/static/DMSans-MediumItalic.ttf");
 }
 
 @font-face {
   font-family: "DM Sans Medium";
-  src: url("/assets/fonts/static/DMSans-Medium.ttf");
+  src: url("./assets/fonts/static/DMSans-Medium.ttf");
 }
 
 .section {
